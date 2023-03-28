@@ -1,6 +1,9 @@
 # Pràctica 1 - BLINK
 
-Codi de la pràctica:
+
+
+***Codi de la pràctica:***
+
 
 ```
 #include <Arduino.h>
@@ -24,19 +27,39 @@ void loop() {
 }
 ```
 
-Fotografia del muntatge:
+
+
+
+***Fotografia del muntatge:***
 
 ![image](https://user-images.githubusercontent.com/125595278/228271323-8b68768b-2fe1-4682-969f-68d08eb3e5ee.png)
 
 
 
-Diagrama de flujo:
 
 
-Diagrama de tiempo:
+***Diagrama de flujo:***
 
 
-**En el programa que se ha realizado cual es el tiempo libre que tiene el procesador?**
+
+
+
+
+***Diagrama de tiempo:***
+
+
+
+
+
+
+
+
+***En el programa que se ha realizado cual es el tiempo libre que tiene el procesador?***
+
+
+
+
+
 
 
 ## Ejercicios voluntarios de mejora de nota
