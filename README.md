@@ -1,6 +1,5 @@
 # Pràctica 1 - BLINK
 
-![5c7507a0-59a3-4181-ad6e-16897e24d835](https://user-images.githubusercontent.com/125595278/229864889-028457f1-bde3-4d38-8ba7-c6410d52bcb3.jpg)
 
 
 ### Codi de la pràctica:
