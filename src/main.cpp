@@ -12,8 +12,8 @@ void setup() {
 void loop() {
     digitalWrite(pin_led, HIGH);
     delay(500);
-   // Serial.println("ON");
+    //Serial.println("ON");
     digitalWrite(pin_led, LOW);
     delay(500);
-   // Serial.println("OFF");
+    //Serial.println("OFF");
 }
