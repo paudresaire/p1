@@ -40,7 +40,7 @@ void loop() {
 
 ### Diagrama de flujo:
 
-![image](![Imatge_diagrama_flux](https://github.com/paudresaire/p1/assets/125595278/a206767c-610b-44a0-bf76-85733d5773a0))
+![image](https://github.com/paudresaire/p1/assets/125595278/a206767c-610b-44a0-bf76-85733d5773a0)
 
 
 
